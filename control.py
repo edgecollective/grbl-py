@@ -49,8 +49,8 @@ def drill_off():
     s.write('M5\n')
     print(s.readline().strip())
 
-# make it go
 
+# make it go!
 
 x(1)
 y(3)
